@@ -1,1 +1,17 @@
 graphics and music from opengameart.org
+
+
+destroyer.png:
+https://opengameart.org/content/set-faction10-spaceships
+
+destroyer2.png:
+edited: https://opengameart.org/content/set-faction10-spaceships
+
+bluecarrier.png:
+https://opengameart.org/content/set-faction9-spaceships
+
+bluecarrier2.png:
+https://opengameart.org/content/set-faction9-spaceships
+
+sound effects:
+https://jfxr.frozenfractal.com/#
