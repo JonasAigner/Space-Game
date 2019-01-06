@@ -13,5 +13,11 @@ https://opengameart.org/content/set-faction9-spaceships
 bluecarrier2.png:
 https://opengameart.org/content/set-faction9-spaceships
 
+planet.png:
+https://opengameart.org/content/planet-3
+
+planet 1-4:
+https://opengameart.org/content/27-planets-in-hi-res
+
 sound effects:
 https://jfxr.frozenfractal.com/#
